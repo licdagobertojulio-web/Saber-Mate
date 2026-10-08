@@ -2,6 +2,6 @@
   "name": "SABER MATE",
   "description": "Aplicación de estudio y preparación de Matemáticas Saber 11 con 500 preguntas, simulacros, lectura en voz alta y panel docente.",
   "prompt": "SABER MATE: Aplicación de estudio de Matemáticas Saber 11.º con 500 preguntas, simulacros, lectura en voz alta y panel docente.",
-  "permissions": [],
-  "capabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
 }

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="primary_blue">#2445C2</color>
+    <color name="pencil_yellow">#F0B232</color>
+    <color name="background_paper">#F3F5FA</color>
+    <color name="surface_white">#FFFFFF</color>
+    <color name="ink_dark">#15203A</color>
+</resources>
